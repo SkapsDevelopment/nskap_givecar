@@ -4,6 +4,7 @@
 > 🔑 A FiveM admin-based script that allows configured admins to give vehicles to players by ID.  
 > ⚡ Powered by [ox_lib](https://github.com/overextended/ox_lib).
 
+https://discord.gg/hMMMDpXHJm
 ---
 
 ## ✨ Features
